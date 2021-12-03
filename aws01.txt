@@ -1,6 +1,0 @@
-name: venkatesh
-father name: samba
-mother name: parvathi
-adress: kodad
-
-
